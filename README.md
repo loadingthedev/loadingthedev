@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://loadingthe.life](https://loadingthe.life)
+- 👨‍💻 All of my projects are available at [https://portfolio-loadingthedev.vercel.app/](https://portfolio-loadingthedev.vercel.app/)
 
 - 💬 Ask me about **react,nextjs,node,google drive**
 

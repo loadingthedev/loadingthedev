@@ -7,7 +7,7 @@ A passionate fullstack developer from India
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://portfolio-loadingthedev.vercel.app/](http://portfolio-loadingthedev.vercel.app/)
 * ✉️  You can contact me at [loadingthedev@gmail.com](mailto:loadingthedev@gmail.com)
-* 🧠  I'm learning NextJs
+
 
 ### Skills
 
